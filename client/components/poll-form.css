@@ -1,0 +1,12 @@
+.question-group   {
+  margin-bottom:20px;
+  background:#eee;
+  padding:20px;
+}
+.question-group label   {
+  font-size:18px;
+}
+
+.poll-form 			{
+  margin-bottom:30px;
+}
